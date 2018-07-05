@@ -1,0 +1,2 @@
+# Prolog
+Ejercicios basicos prolog
